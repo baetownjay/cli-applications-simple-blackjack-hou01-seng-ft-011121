@@ -70,5 +70,6 @@ def runner
   welcome
   initial_round
   hit?(deal_card)
+  
 end
     
